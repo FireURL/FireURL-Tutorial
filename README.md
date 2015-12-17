@@ -21,7 +21,8 @@ After you've downloaded the script, run the script using the command:
 python fireURL.py
 ```
 This will start a [FireURL Server] on port ```8000```.
-[TBD: Add snapshots here]
+
+<img src="Assets/fireurl_server.png" height=400>
 
 __Note:__ If you wish to specify the port that FireURL should listen on, you can use the command ```python fireURL.py 4444``` Where ```4444``` is the port number that you specify.
 
@@ -52,7 +53,7 @@ In order to create a ```POST``` request to our [FireURL Server], we cannot creat
 
 In our ```POST``` request, we'd need to specify where we want the request to be sent, and what content (```form-data```) we'd like to send. Our ```POST``` request should look something like this:
 
-[TBD: Attach snapshot of Postman making a POST request to 192.168.1.5]
+<img src="Assets/postman_post.png" height=600>
 
 If we send this request out, we'll see the web page opening on our server's computer! Neat!
 
