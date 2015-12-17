@@ -10,10 +10,11 @@ title: FireURL
 email: 9029537@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Easily share links between two devices.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fireurl.github.io/FireURL-Tutorial" # the base hostname & protocol for your site
+baseurl: "/FireURL-Tutorial" # the subpath of your site, e.g. /blog
+url: "https://fireurl.github.io" # the base hostname & protocol for your site
 twitter_username: prankymat
 github_username:  prankymat
 
 # Build settings
 markdown: kramdown
+github: [Repository metadata]
