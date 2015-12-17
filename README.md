@@ -60,8 +60,8 @@ If we send this request out, we'll see the web page opening on our server's comp
 ## These all seemed complicated! Are there any simplier ways to use __FireURL__?
 Yes. Well sort of. Official client apps for __FireURL__ are currently being developed. Here is the list of their repos:
 
-iOS: https://github.com/FireURL/FireURL-Client-iOS
-Android: TBD
+- iOS: https://github.com/FireURL/FireURL-Client-iOS
+- Android: TBD
 
 These apps aim to open web links from your mobile device to computer quickly and easily. Please refer to instructions in those repos to find installation guides and usages.
 
