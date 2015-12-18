@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting Started
-permalink: /getting_stared/
+permalink: /getting_started/
 ---
 
 # Coming soon! Stay tuned.
